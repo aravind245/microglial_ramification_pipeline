@@ -91,4 +91,5 @@ If you use this repository in your research, please cite:
 [Dr. Aravind Sivakumar]. (2025). BCAS Drug Microvessel Microglia Analysis. GitHub Repository. [https://github.com/yourusername/BCAS_drug_microglia_analysis](https://github.com/aravind245/microglial_ramification_pipeline)
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007 . See the LICENSE file for details.
